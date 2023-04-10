@@ -1,16 +1,5 @@
-# n_clima
+# Weather App with Flutter
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+A new Project with Flutter and using Openweather API 
+![Screenshot 2023-04-10 at 6 42 06 PM](https://user-images.githubusercontent.com/19757691/231012888-0520435d-12e9-4e90-8699-aa1d1948528d.png)
+![Screenshot 2023-04-10 at 6 42 10 PM](https://user-images.githubusercontent.com/19757691/231012889-8924aadc-7fc2-471f-a460-f207139d473f.png)
